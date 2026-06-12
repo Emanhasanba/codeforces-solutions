@@ -1,12 +1,12 @@
 
 
-## 📌 المسألة: A. Way Too Long Words (71A)
+##  المسألة: A. Way Too Long Words (71A)
 
-🔗 **رابط المسألة على Codeforces:** [اضغط هنا للمشاهدة](https://codeforces.com/problemset/problem/71/A)
+ **رابط المسألة على Codeforces:** [اضغط هنا للمشاهدة](https://codeforces.com/problemset/problem/71/A)
 
 ---
 
-## 🧠 تحليل وفكرة الحل
+##  تحليل وفكرة الحل
 
 تعتمد فكرة الحل على فحص طول السلسلة النصية (String) ومعالجتها بناءً على الشرط التالي:
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 💡 توضيح بالمثال (Example)
+## توضيح بالمثال (Example)
 
 ### المدخلات (Input):
 ```text
