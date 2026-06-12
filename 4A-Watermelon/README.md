@@ -1,5 +1,8 @@
 # مسألة البطيخة (Watermelon)
+## 🔗 رابط المسألة | Problem Link
+* **[Codeforces - 4A: Watermelon](https://codeforces.com/problemset/problem/4/A)** 🌍
 
+---
 ## وصف المسألة
 
 اشترى بيت وصديقه بيلي بطيخة وزنها **w** كيلوغرامًا.
